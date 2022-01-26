@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(125, 148, 150);
+    margin: 0;
+}
+
+header {
+    background-color: white;
+    
+}
+
+.post {
+    background-color: white;
+}
+
+h1 {
+    margin: 0;
+}
+
+.container {
+    width: 600px;
+    margin: auto;
+}
+
+.post img {
+    width: 100%;
+}
